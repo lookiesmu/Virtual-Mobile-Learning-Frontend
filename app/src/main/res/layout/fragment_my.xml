@@ -8,9 +8,10 @@
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="139dp"
+        android:background="@color/Gold"
+        android:gravity="center"
         android:text="내 정보 화면입니다."
-        android:textSize="100dp"
-        android:gravity="center"/>
+        android:textSize="28dp" />
 
 </FrameLayout>
